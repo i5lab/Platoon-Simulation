@@ -1,4 +1,4 @@
-# Platoon-Simulation-
+# Longitudinal Platoon Simulation
 These simulations represent a Comparision of Laguerre-based  MPC and Traditional MPC for the platoon of vehicles.
 
 You can download casadi solver from https://github.com/casadi/casadi and change the path in line 67 m-files.
