@@ -7,3 +7,7 @@ The below figure shows the time of solution by Laguerre-based  MPC and Tradition
 The simulation results have been performed on a system with Core i5 2.5 GHz and 8 GB of RAM.
 
 ![Capture](https://user-images.githubusercontent.com/30212057/218696642-86528408-25e8-4554-baa2-3a14681f83bd.PNG)
+
+The below animation shows the forming platoon from the initial states by applying Laugere-based MPC.
+
+![Video](https://user-images.githubusercontent.com/30212057/218703476-817f0ee6-7471-4419-b9e3-e8b25d06d444.gif)
