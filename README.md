@@ -11,3 +11,5 @@ The simulation results have been performed on a system with Core i5 2.5 GHz and 
 The below animation shows the forming platoon from the initial states by applying Laugere-based MPC.
 
 ![Video](https://user-images.githubusercontent.com/30212057/218703476-817f0ee6-7471-4419-b9e3-e8b25d06d444.gif)
+
+The implementation results are also uploaded  in the https://youtu.be/_dGwONEw450 and https://youtu.be/-pn0_jdrFeI
